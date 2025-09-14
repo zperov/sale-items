@@ -7,10 +7,9 @@ This website is being designed to provide information related to the local groce
 	</head>
 
 	<body>
-        	<b>This is my </b>
-		<a href="https://zperov.github.io">Main   </a>
-		<a href="https://zperov.github.io/index.html">Main2   </a>
-		<a href="https://zperov.github.io-About-Us/">About Us</a>
-		<p>� test �</p>
+   		<a href="https://zperov.github.io">Main   </a> <br>
+		<a href="https://zperov.github.io/index.html">Main2   </a>  <br>
+		<a href="https://zperov.github.io-About-Us/">About Us</a>  <br>
+
 	</body>
 </html>
