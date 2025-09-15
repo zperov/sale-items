@@ -1,4 +1,3 @@
-<!DOCTYPE html>  
 <html lang="en">
 	<head>
 		<title>This is where our delicious products will be listed
