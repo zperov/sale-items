@@ -1,6 +1,6 @@
 <html lang="en">
 	<head>
-		<title>This is where our delicious products will be listed
+		<title>This is where our delicious products will be listed 
 		</title>
 	</head> 	
 	<body>
