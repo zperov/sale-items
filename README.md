@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
 	<head>
 		<title>This is where our delicious products will be listed
 		</title>
